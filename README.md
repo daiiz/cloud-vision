@@ -36,7 +36,7 @@ Give your favorite photo. You can give a photo in following two ways.
 And then, click "Play" button in right-bottom of the window.
 The small window for sending request to local server will open.
 Select the value `Original photo` in a left-top select button.
-In the last step, click "Classify" button to send `LABEL_DETECTION` request to Google Cloud Vision API through the local server you launched before.
+In the last step, click "Classify" button to send `LABEL_DETECTION` request to Google Cloud Vision API through the local server you launched earlier.
 
 ## Get response
 You can get `labelAnnotations` results.
