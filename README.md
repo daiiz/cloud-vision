@@ -21,7 +21,10 @@ https://chrome.google.com/webstore/detail/tfphotopalette/gcpfanfkkjpolcdicokfjph
 $ python palette_server.py
 ```
 
-## Run tfPhotoPalette and Send requests
+## Run tfPhotoPalette
+You can launch tfPhotoPalette app.
+
+## Send requests
 Give your favorite photo. You can give a photo in following two ways.
 * Drag and drop a photo file onto tfPhotoPalette app.
 * Enter the URL of a photo in the Web and click "Load" button.
