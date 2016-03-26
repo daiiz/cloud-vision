@@ -22,7 +22,9 @@ $ python palette_server.py
 ```
 
 ## Run tfPhotoPalette
-You can launch tfPhotoPalette app.
+You can launch tfPhotoPalette app in following steps:
+* Open [chrome://apps/](chrome://apps/)
+* Click the app icon of tfPhotoPalette
 
 ## Send requests
 Give your favorite photo. You can give a photo in following two ways.
