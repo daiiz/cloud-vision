@@ -29,7 +29,7 @@ You can launch tfPhotoPalette app in following steps:
 ## Send requests
 Give your favorite photo. You can give a photo in following two ways.
 * Drag and drop a photo file onto tfPhotoPalette app.
-* Enter the URL of a photo in the Web and click "Load" button.
+* Enter the URL of a photo on the Web and click "Load" button.
 
 [![https://gyazo.com/1484dd1d17d3261f550b695f2e8d3a2f](https://i.gyazo.com/1484dd1d17d3261f550b695f2e8d3a2f.gif)](https://gyazo.com/1484dd1d17d3261f550b695f2e8d3a2f)
 
