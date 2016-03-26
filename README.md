@@ -1,5 +1,5 @@
 # Google Cloud Vision API Client
-This is a tool to try the feature `LABEL_DETECTION` of Google Cloud Vision API.
+This is a GUI tool to try the feature `LABEL_DETECTION` of Google Cloud Vision API.
 [![https://gyazo.com/0aa5cddd30b8bbc956aa6ced95fd244c](https://i.gyazo.com/0aa5cddd30b8bbc956aa6ced95fd244c.png)](https://gyazo.com/0aa5cddd30b8bbc956aa6ced95fd244c)
 
 ## Set your API key
